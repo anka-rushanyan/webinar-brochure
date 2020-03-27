@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e7dd6a4-3464-4e42-8437-ee60f521505c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webinar-brochure.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="485" column="95" selection-start-line="485" selection-start-column="95" selection-end-line="485" selection-end-column="95" />
+              <folding>
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#2;n#div#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#2;n#div#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#2;n#div#2;n#div#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#2;n#div#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#div#0;n#footer#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#0;n#div#0;n#footer#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#0;n#div#0;n#footer#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#script#3;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="458" column="22" lean-forward="true" selection-start-line="458" selection-start-column="22" selection-end-line="458" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/responsive.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="130" column="1" selection-start-line="130" selection-start-column="1" selection-end-line="130" selection-end-column="1" />
+              <folding>
+                <element signature="e#4#153#0" />
+                <element signature="e#155#1425#0" />
+                <element signature="e#1427#1739#0" />
+                <element signature="e#1741#1987#0" />
+                <element signature="e#1989#2087#0" />
+                <element signature="e#2089#2187#0" />
+                <element signature="e#2189#2931#0" />
+                <element signature="e#2933#3031#0" />
+                <element signature="e#3254#3625#0" />
+                <element signature="e#6288#6538#0" />
+                <element signature="e#9235#10708#0" />
+                <element signature="e#11492#13450#0" />
+                <element signature="e#13453#13759#0" />
+                <element signature="e#13761#13848#0" />
+                <element signature="e#13850#15362#0" />
+                <element signature="e#21084#21353#0" />
+                <element signature="e#21355#21819#0" />
+                <element signature="e#21821#22233#0" />
+                <element signature="e#22237#52253#0" />
+                <element signature="e#23874#24020#0" />
+                <element signature="e#24022#24391#0" />
+                <element signature="e#24393#33045#0" />
+                <element signature="e#33047#33661#0" />
+                <element signature="e#33663#34008#0" />
+                <element signature="e#34010#34123#0" />
+                <element signature="e#34125#35057#0" />
+                <element signature="e#35059#36357#0" />
+                <element signature="e#36359#51700#0" />
+                <element signature="e#51702#51884#0" />
+                <element signature="e#51886#51996#0" />
+                <element signature="e#51998#52109#0" />
+                <element signature="e#52111#52244#0" />
+                <element signature="e#53224#53349#0" />
+                <element signature="e#53347#53397#0" />
+                <element signature="e#53467#53586#0" />
+                <element signature="e#53225#53707#0" />
+                <element signature="e#54072#54324#0" />
+                <element signature="e#52849#54189#0" />
+                <element signature="e#53052#53102#0" />
+                <element signature="e#53099#53284#0" />
+                <element signature="e#53898#53947#0" />
+                <element signature="e#54411#54631#0" />
+                <element signature="e#54090#54340#0" />
+                <element signature="e#58289#62010#0" />
+                <element signature="e#55721#55742#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.home-top_title-2</find>
+      <find>.webinar-brochure .pencils</find>
+      <find>home-top_info-3</find>
+      <find>.webinar-brochure .nv-footer</find>
+      <find>sidepanel</find>
+      <find>openbtn</find>
+      <find>col-48</find>
+      <find>car</find>
+      <find>carou</find>
+      <find>.webinar-brochure .box</find>
+      <find>.col-lg-2</find>
+      <find>javascript:void(0)</find>
+      <find>row d-sm-flex  align-items-center justify-content-between h-100 px-3</find>
+      <find>col.</find>
+      <find>col-8</find>
+      <find>container</find>
+      <find>992</find>
+      <find>.webinar-brochure header .white-btn-2</find>
+      <find>card-</find>
+      <find>card</find>
+      <find>460px</find>
+      <find>col-</find>
+      <find>images/vidthere-logo-white.png</find>
+      <find>.webinar-brochure .card</find>
+      <find>192</find>
+      <find>.webinar-brochure .card-text</find>
+      <find>.width-auto</find>
+      <find>320px</find>
+      <find>1440</find>
+      <find>footer</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\User\Desktop\webinar-brochure</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/webinar-brochure.html" />
+        <option value="$PROJECT_DIR$/css/responsive.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-485" />
+    <option name="y" value="36" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="webinar-brochure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webinar-brochure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webinar-brochure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webinar-brochure" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webinar-brochure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webinar-brochure" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/xampp/htdocs/wf_new" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e7dd6a4-3464-4e42-8437-ee60f521505c" name="Default Changelist" comment="" />
+      <created>1584985697315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584985697315</updated>
+      <workItem from="1584985698751" duration="3848000" />
+      <workItem from="1585029572436" duration="12563000" />
+      <workItem from="1585046597054" duration="22086000" />
+      <workItem from="1585115892237" duration="23703000" />
+      <workItem from="1585203530422" duration="32531000" />
+      <workItem from="1585288655185" duration="11129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="105860000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/xampp/htdocs/saasuma-brochure/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css" />
+    <entry file="file://C:/xampp/htdocs/saasuma-brochure/home-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2686">
+          <caret line="158" column="26" selection-start-line="119" selection-start-column="20" selection-end-line="159" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/htdocs/saasuma-brochure/css/theme-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2584">
+          <caret line="152" column="27" selection-start-line="152" selection-start-column="27" selection-end-line="152" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/notebook_3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="458" column="22" lean-forward="true" selection-start-line="458" selection-start-column="22" selection-end-line="458" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webinar-brochure.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="485" column="95" selection-start-line="485" selection-start-column="95" selection-end-line="485" selection-end-column="95" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#2;n#div#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#2;n#div#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#2;n#div#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#footer#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#footer#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#footer#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#3;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="130" column="1" selection-start-line="130" selection-start-column="1" selection-end-line="130" selection-end-column="1" />
+          <folding>
+            <element signature="e#4#153#0" />
+            <element signature="e#155#1425#0" />
+            <element signature="e#1427#1739#0" />
+            <element signature="e#1741#1987#0" />
+            <element signature="e#1989#2087#0" />
+            <element signature="e#2089#2187#0" />
+            <element signature="e#2189#2931#0" />
+            <element signature="e#2933#3031#0" />
+            <element signature="e#3254#3625#0" />
+            <element signature="e#6288#6538#0" />
+            <element signature="e#9235#10708#0" />
+            <element signature="e#11492#13450#0" />
+            <element signature="e#13453#13759#0" />
+            <element signature="e#13761#13848#0" />
+            <element signature="e#13850#15362#0" />
+            <element signature="e#21084#21353#0" />
+            <element signature="e#21355#21819#0" />
+            <element signature="e#21821#22233#0" />
+            <element signature="e#22237#52253#0" />
+            <element signature="e#23874#24020#0" />
+            <element signature="e#24022#24391#0" />
+            <element signature="e#24393#33045#0" />
+            <element signature="e#33047#33661#0" />
+            <element signature="e#33663#34008#0" />
+            <element signature="e#34010#34123#0" />
+            <element signature="e#34125#35057#0" />
+            <element signature="e#35059#36357#0" />
+            <element signature="e#36359#51700#0" />
+            <element signature="e#51702#51884#0" />
+            <element signature="e#51886#51996#0" />
+            <element signature="e#51998#52109#0" />
+            <element signature="e#52111#52244#0" />
+            <element signature="e#53224#53349#0" />
+            <element signature="e#53347#53397#0" />
+            <element signature="e#53467#53586#0" />
+            <element signature="e#53225#53707#0" />
+            <element signature="e#54072#54324#0" />
+            <element signature="e#52849#54189#0" />
+            <element signature="e#53052#53102#0" />
+            <element signature="e#53099#53284#0" />
+            <element signature="e#53898#53947#0" />
+            <element signature="e#54411#54631#0" />
+            <element signature="e#54090#54340#0" />
+            <element signature="e#58289#62010#0" />
+            <element signature="e#55721#55742#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

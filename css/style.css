@@ -1,0 +1,657 @@
+.webinar-brochure {
+    font-family: 'Cabin', sans-serif;
+}
+.z-index-1 {
+    z-index: 1;
+}
+
+.mr-2 {
+    margin-right: .5rem!important;
+}
+
+.mb-115{
+    margin-bottom: 115px;
+}
+
+.width-auto {
+    width: auto;
+}
+
+.webinar-brochure header {
+    height: 76px;
+    width: 100%;
+    font-size: 14px;
+    line-height: 18px;
+    color: #263952;
+}
+
+.webinar-brochure header .navbar {
+    padding: 0;
+    text-align: center;
+}
+
+.webinar-brochure header .nav-item:not(:last-child) {
+    margin-right: 40px;
+}
+
+.webinar-brochure .navbar-expand-lg .navbar-nav .nav-link {
+    line-height: 22px;
+    font-size: 17px;
+    color: #ababab;
+}
+
+.webinar-brochure header .white-btn {
+    border: 2px solid #000000;
+    line-height: 40px;
+    font-weight: 600;
+    font-size: 17px;
+    color: #000000;
+    text-decoration: none;
+    border-radius: 6px;
+    min-width: 160px;
+    height: 45px;
+    text-align: center;
+}
+
+.webinar-brochure header .white-btn-2 {
+    display: none;
+}
+
+.webinar-brochure header .black-btn {
+    background-color: #000000;
+    border-radius: 6px;
+    min-width: 160px;
+    line-height: 40px;
+    font-weight: 600;
+    font-size: 17px;
+    height: 45px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.webinar-brochure .nav-login {
+    font-size: 17px;
+    color: #ababab;
+}
+
+.webinar-brochure .home-top {
+    padding: 90px 0;
+    border-bottom: 0;
+}
+
+.webinar-brochure  .home-top_title {
+    font-size: 60px;
+    font-weight: 700;
+    width: 100%;
+    line-height: 78px;
+    margin: 0 auto 22px;
+    color: #000;
+    text-align: center;
+    max-width: 1190px;
+}
+
+.webinar-brochure  .home-top_title_2 {
+    font-size: 60px;
+    font-weight: 700;
+    width: 100%;
+    line-height: 78px;
+    margin: 0 auto 22px;
+    color: #000;
+    text-align: center;
+    max-width: 1190px;
+}
+
+.webinar-brochure  .home-top_title_3 {
+    font-size: 60px;
+    font-weight: 700;
+    width: 100%;
+    line-height: 78px;
+    margin: 0 auto 22px;
+    color: #000;
+    text-align: center;
+    max-width: 1190px;
+}
+
+.webinar-brochure .home-top_info {
+    max-width: 545px;
+    text-align: center;
+    margin: auto;
+    font-weight: 500;
+    color: #000;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.webinar-brochure .home-top_info-2 {
+    max-width: 570px;
+    text-align: center;
+    margin: auto;
+    font-weight: 500;
+    color: #000;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.webinar-brochure .home-top_info-3 {
+    max-width: 545px;
+    text-align: center;
+    margin: auto;
+    font-weight: 500;
+    color: #000;
+    /*line-height: 30px;*/
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+
+.webinar-brochure .home-top-txt {
+    max-width: 450px;
+    text-align: center;
+    margin: auto;
+    color: #000;
+    font-weight: 500;
+    font-size: 17px;
+    margin-bottom: 25px;
+}
+
+.webinar-brochure .btn-core {
+    color: #002fd3;
+    border: 2px solid #002fd3;
+    font-size: 20px;
+    font-weight: 500;
+    height: 50px;
+    margin-bottom: 80px;
+    line-height: 46px;
+    padding: 0 72px 0 30px;
+    position: relative;
+
+}
+.webinar-brochure .btn-core:before {
+   content: "";
+    width: 30px;
+    position: absolute;
+    border: 1px solid #002fd3;
+    top: 27px;
+    right: 30px;
+}
+
+.webinar-brochure .btn-core-black {
+    color: #ffffff;
+    font-size: 20px;
+    width: 220px;
+    background-color: #000000;
+    height: 45px;
+    line-height: 25px;
+    text-align: center;
+}
+
+.webinar-brochure .btn-core-black-2 {
+    color: #ffffff;
+    font-size: 20px;
+    width: 165px;
+    background-color: #000000;
+    height: 50px;
+    line-height: 32px;
+    text-align: center;
+}
+
+.webinar-brochure .btn-core-white {
+    color: #000000;
+    font-size: 20px;
+    width: 165px;
+    border: 2px solid #000000;
+    background-color: #ffffff;
+    height: 50px;
+    line-height: 32px;
+    text-align: center;
+}
+
+.webinar-brochure .people-message {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0px 23px 32px 0px rgba(0, 0, 0, 0.16);
+    margin-bottom: 10px;
+}
+
+.webinar-brochure .people-mini-icons {
+    margin-bottom: 15px;
+}
+
+.webinar-brochure .people-text {
+    margin-bottom: 25px;
+    color: #000000;
+}
+
+.webinar-brochure .people-txt {
+    /*width: 222px;*/
+    height: 50px;
+    margin: -10px;
+    padding-left: 10px;
+    border: none;
+    background-color: #f5f9fc;
+    border-radius: 0 0 4px 4px;
+}
+
+.webinar-brochure .image-round {
+    width: 100%;
+    position: relative;
+    display: block;
+}
+
+.webinar-brochure .middle-sec {
+    background-color: #e3ebff;
+    max-width: 100%;
+    padding: 580px 0 150px;
+}
+
+.webinar-brochure .middle-sec:before {
+    height: 37rem;
+}
+
+.webinar-brochure .image-round img {
+    display: inline-block;
+}
+
+.webinar-brochure .image-notebook {
+    width: auto;
+    margin-bottom: 55px;
+    max-width: 100%;
+}
+
+.webinar-brochure .live-meeting {
+    background-image: -moz-linear-gradient( 0deg, rgb(0,47,211) 0%, rgb(255,0,48) 100%);
+    background-image: -webkit-linear-gradient( 0deg, rgb(0,47,211) 0%, rgb(255,0,48) 100%);
+    background-image: -ms-linear-gradient( 0deg, rgb(0,47,211) 0%, rgb(255,0,48) 100%);
+    color: #ffffff;
+    height: 50px;
+    padding: 0 4px 0 18px;
+    line-height: 50px;
+    border-radius: 25px 0 25px 25px;
+    position: relative;
+}
+
+.webinar-brochure .top-elipse {
+     position: absolute;
+     top: -150px;
+     right: 10px;
+     z-index: -1;
+     display: block;
+}
+
+.webinar-brochure .top-elipse-mini {
+     display: none;
+}
+
+.webinar-brochure .top-elipse-mini-2 {
+     display: none;
+}
+
+.webinar-brochure .live {
+    margin-bottom: 0;
+    font-size: 15px;
+}
+
+.webinar-brochure .mini-elipse {
+    position: absolute;
+    left: -10px;
+    top: 15px;
+}
+
+.webinar-brochure .middle-elipse {
+    position: absolute;
+    top: -145px;
+    left: 220px;
+    z-index: 0;
+    display: block;
+}
+
+.webinar-brochure .middle-elipse-2 {
+    display: none;
+}
+
+.webinar-brochure .middle-elipse-3 {
+    display: none;
+}
+
+.webinar-brochure .bottom-elipse {
+    position: absolute;
+    top: -145px;
+    right: 220px;
+    z-index: -1;
+    display: block;
+}
+
+.webinar-brochure .dropdown {
+    display: none;
+}
+
+.webinar-brochure .bottom-elipse-2,
+.webinar-brochure .bottom-elipse-3 {
+    display: none;
+}
+
+.webinar-brochure .row-bigger {
+    margin-left: -10px!important;
+    margin-right: -10px!important;
+    margin-bottom: 50px !important;
+}
+
+.webinar-brochure .col-bigger {
+    padding-left: 10px!important;
+    padding-right: 10px!important;
+}
+
+.webinar-brochure .box:hover {
+    transform: translateY(-20px);
+    cursor: pointer;
+}
+
+.webinar-brochure .box:hover .icon .first-source-1{
+    background: -webkit-gradient(linear, left top, right top, from(#032ed1), to(#fa0133));
+    background: linear-gradient(to right, #032ed1 0%, #fa0133 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+.webinar-brochure .trans {
+    transition: all 0.5s ease;
+}
+
+.webinar-brochure .box {
+    background-color: #fff;
+    display: block;
+    font-size: 18px;
+    line-height: 170%;
+    position: relative;
+    padding: 1.944rem 2.389rem;
+    height: 100%;
+    text-align: center;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    box-shadow: 0px 23px 32px 0px rgba(0, 0, 0, 0.16);
+}
+
+.webinar-brochure .icon {
+    margin-bottom: 15px;
+
+}
+
+.webinar-brochure .icon-pic {
+    display: block;
+    margin: 15px auto 20px;
+}
+
+.webinar-brochure .box:hover .icon .icon-pic{
+    display: none;
+}
+.webinar-brochure .box:hover .icon .icon-pic-2{
+    display: block;
+}
+
+.webinar-brochure .icon-pic-2 {
+    margin: 15px auto 20px;
+    display: none;
+}
+
+.webinar-brochure .first-source-1 {
+    color: #002fd3;
+    font-size: 26px;
+    line-height: 130%;
+    font-weight: 500;
+    margin: 0 0 15px 0;
+}
+
+
+.webinar-brochure .card-title,
+.webinar-brochure .card-text {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.webinar-brochure .card {
+    width: 100%;
+    padding: 30px;
+    box-shadow: 0px 23px 32px 0px rgba(0, 0, 0, 0.16);
+    margin: 0;
+    min-height: 540px;
+    height: 100%;
+}
+
+.webinar-brochure .card:hover {
+    transform: translateY(-20px);
+    cursor: pointer;
+    box-shadow: 0px 23px 32px 0px rgba(0, 0, 0, 0.16);
+}
+
+.webinar-brochure .card-title {
+    color: #002fd3;
+    font-size: 26px;
+}
+
+.webinar-brochure .card-text {
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.webinar-brochure .business-btns {
+   margin-bottom: 70px;
+}
+
+.webinar-brochure .desktop-image {
+    transform: translate(0,680px);
+    margin-top: -680px;
+}
+
+.webinar-brochure .desktop-image-two {
+    /*transform: translate(0,380px);*/
+    margin-top: -120px;
+    position: relative;
+}
+
+.webinar-brochure .desktop-image-three {
+    transform: translate(0,730px);
+    margin-top: -730px;
+    position: relative;
+}
+
+.webinar-brochure .card-desk-block {
+    transform: translate(0,100px);
+    margin-top: -100px;
+}
+
+.webinar-brochure .people-icons-two {
+    position: absolute;
+    top: -55px;
+    right: 95px;
+}
+
+.webinar-brochure .people-icons-three {
+    position: absolute;
+    top: -195px;
+    right: 95px;
+}
+
+.webinar-brochure .pencils {
+    position: absolute;
+    right: 93px;
+    bottom: 185px;
+}
+
+.webinar-brochure .features {
+    margin-bottom: 15px;
+}
+
+.webinar-brochure .discover {
+    margin-bottom: 70px;
+}
+
+.webinar-brochure  .home-top_title-2 {
+    font-size: 60px;
+    font-weight: 600;
+    width: 100%;
+    line-height: 78px;
+    margin: 0 auto 8px;
+    background: -webkit-gradient(linear, left top, right top, from(#f81639), to(#013bcf));
+    background: linear-gradient(to right, #f81639 0%, #013bcf 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+
+.webinar-brochure .bottom-sec {
+    background-color: #e3ebff;
+    max-width: 100%;
+    padding: 215px 0 50px;
+}
+
+.webinar-brochure .bottom-sec-2 {
+    padding: 670px 0 0;
+}
+
+.webinar-brochure .nv-footer {
+    padding: 120px 0 20px 0;
+    background-color: #000000;
+}
+
+.webinar-brochure .container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.webinar-brochure ul {
+    list-style: none;
+}
+
+.webinar-brochure .nv-footer .footer-links li:first-of-type {
+    font-size: 21px;
+    color: #ffffff;
+    margin-bottom: 16px;
+    font-weight: 600;
+}
+
+.webinar-brochure .nv-footer .footer-links li a {
+    font-size: 17px;
+    color: #707070;
+    line-height: 30px;
+    text-decoration: none;
+}
+
+.webinar-brochure .footer-btn {
+    font-size: 17px;
+    background-color: #002fd3;
+    color: #ffffff;
+    border-radius: 5px;
+    text-align: center;
+    width: 143px;
+    height: 40px;
+}
+
+.webinar-brochure .corporite-text {
+    font-size: 13px;
+    color: #515151;
+}
+
+.webinar-brochure .footer-text {
+    margin-top: 45px;
+}
+
+.webinar-brochure .card-img-block {
+    min-height: 270px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#slider {
+    /*height: 350px;
+    overflow: hidden;
+    width: 100%;*/
+}
+
+.carousel-item {
+    min-height: 350px;
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 2px solid #000;
+    background-color: transparent;
+    opacity: 1;
+}
+
+.carousel-indicators li.active {
+    background-color: #000;
+}
+.carousel-indicators {
+    bottom: -50px;
+}
+
+
+
+
+
+.sidepanel  {
+    width: 0;
+    position: fixed;
+    z-index: 2;
+    height: 250px;
+    top: 0;
+    right: 0;
+    background-color: #0a43d1;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 30px;
+    height:100%;
+}
+
+.sidepanel a {
+    padding: 70px 8px 10px 32px;
+    text-decoration: none;
+    font-size: 45px;
+    color: #ffffff;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidepanel a:hover {
+    color: #f1f1f1;
+}
+
+.sidepanel .closebtn {
+    font-size: 17px;
+    border-radius: 8px;
+    border: 1px solid #ffffff;
+    padding: 0 10px;
+    width: 120px;
+    height: 30px;
+    line-height: 28px;
+    color: #ffffff;
+}
+
+.btn_close {
+    padding: 0 35px;
+}
+
+.btn-txt {
+    text-align: center;
+    padding: 105px;
+}
+
+/*.openbtn {*/
+    /*font-size: 20px;*/
+    /*cursor: pointer;*/
+    /*background-color: #0a43d1;*/
+    /*color: white;*/
+    /*padding: 10px 15px;*/
+    /*border: none;*/
+/*}*/
+
+/*.openbtn:hover {*/
+    /*background-color:#444;*/
+/*}*/

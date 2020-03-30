@@ -107,6 +107,7 @@
     .d-block-sm {
         display: block !important;
     }
+
 }
 
 @media only screen and ( min-width: 1885px ) {
@@ -140,6 +141,18 @@
         flex: 0 0 75%;
         max-width: 75%;
         -ms-flex: 0 0 75%;
+    }
+}
+
+@media only screen and ( max-width: 1620px ) {
+    .web-pricing .live-meeting {
+        right: 20px;
+    }
+    .web-pricing .bottom-elipse {
+        left: 100px;
+    }
+    .web-pricing .pencils {
+        display: none;
     }
 }
 
@@ -396,6 +409,13 @@
     }
 }
 
+
+@media only screen and ( max-width: 1200px ) {
+    .web-pricing .live-meeting {
+        top: 335px;
+    }
+}
+
 @media only screen and ( max-width: 1180px ) {
     .webinar-brochure .middle-sec {
         padding: 565px 0 150px;
@@ -442,10 +462,24 @@
         top: -218px;
         right: 13px;
     }
+    .web-pricing header .white-btn-2 {
+        display: block;
+    }
+    .navbar-expand-lg .navbar-nav {
+        display: none;
+    }
+    .web-pricing .bottom-elipse {
+        left: 30px;
+        bottom: 190px;
+    }
 
 }
 
 @media only screen and ( max-width: 992px ) {
+    .th-slider {
+        display: block;
+    }
+
     .webinar-brochure .col-bigger-4 {
         display: none;
     }
@@ -499,14 +533,6 @@
     .webinar-brochure .home-top_info-2 {
         font-size: 18px;
     }
-    /*.col-lg-2 {*/
-        /*flex: 0 0 18.666667%;*/
-        /*max-width: 18.666667%;*/
-    /*}*/
-    /*.col-lg-8 {*/
-        /*flex: 0 0 76.666667%;*/
-        /*max-width: 76.666667%;*/
-    /*}*/
     .webinar-brochure .row-bigger {
         display: flex;
         justify-content: center;
@@ -514,6 +540,14 @@
     .webinar-brochure .box {
         padding: 0.944rem 0.389rem;
     }
+    .web-pricing .web-table tr th.th-2,
+    .web-pricing .web-table tr.sub-title-table th:last-of-type,
+    .web-pricing .web-table tr.sub-title-table th:nth-child(3),
+    .web-pricing .web-table tr td:last-of-type,
+    .web-pricing .web-table tr td:nth-child(3) {
+        display: none;
+    }
+
 
 
 @media only screen and ( max-width: 950px ) {
@@ -539,440 +573,28 @@
     .new-version-login .right-header {
         padding: 0 0 25px 0;
     }
-
+    .web-pricing .bottom-elipse {
+        bottom: 85px;
+    }
 }
 
-@media only screen and ( max-width: 767px ) {
-    .border-page {
-        margin: 0 -18px 40px;
-        padding-bottom: 25px;
+@media only screen and ( max-width: 768px ) {
+    .web-pricing .bottom-elipse {
+        bottom: 105px;
+        left: 45px;
     }
-
-    .ltd-page footer .ltd-logo {
-        margin-bottom: 30px;
-    }
-
-    .ltd-page .os-list li {
-        display: block;
-        margin-bottom: 10px;
-    }
-
-    .ltd-page main {
-        padding: 60px 0;
-    }
-
-    .ltd-page .title {
-        font-size: 36px;
-    }
-
-    #downloadModal .app-box .app-info {
-        font-size: 25px;
-        line-height: 30px;
-        margin-bottom: 50px;
-    }
-
-    .interstitial-page {
-        line-height: 24px;
-    }
-
-    .interstitial-page .inter-item {
-        border: 1px solid #ddd;
-        margin-right: 0;
-
-    }
-
-    .interstitial-page .inter-box .blue-arrow {
-        bottom: auto;
-        left: calc(50% - 25px);
-        top: calc(50% - 23px);
-        transform: rotate(90deg);
-        -moz-transform: rotate(90deg);
-        -ms-transform: rotate(90deg);
-        -o-transform: rotate(90deg);
-        -webkit-transform: rotate(90deg);
-    }
-
-    .interstitial-page .page-title {
-        font-size: 30px;
-    }
-
-    .search-form .btn-sources {
-        margin-top: 10px;
-        position: static;
-    }
-
-    .search-form .sources-list {
-        left: 0;
-        min-width: 100%;
-        top: 140px;
-    }
-
-    .settings-page .settings-tab {
-        display: block;
-        padding: 0;
-    }
-
-    .settings-page .settings-tab .nav-item:not(:last-of-type) {
-        border-bottom: 1px solid #E1E1E1;
-        margin-right: 0;
-    }
-
-    .settings-page .settings-tab .nav-link {
-        font-size: 18px;
-        padding: 7px 18px;
-    }
-
-    .settings-page .tab-content {
-        padding: 40px 18px;
-    }
-
-    .settings-page .border-bottom-gray {
-        border: 2px solid #D9D9D9;
-        transform: translateX(-15px);
-        width: calc(100% + 15px + 15px);
-    }
-
-    .price .price-box {
-        margin: 0 0 20px;
-        min-height: auto;
-        width: 100%;
-    }
-
-    .checkout-tab .price-number {
-        font-size: 60px;
-    }
-
-    .how-work .services-section {
-        padding: 100px 0;
-    }
-
-    .how-work .title-service, .how-work .math-item__title, .price-page .math-item__title {
-        font-size: 40px;
-    }
-
-    .how-work .txt-service {
-        font-size: 16px;
-    }
-
-    main {
-        /*margin-bottom: 140px;*/
-        margin-bottom: 0;
-    }
-
-    .youtube--block {
-        height: 300px;
-    }
-
-    .big-page .nav_item-logo, .big-page .right-list {
-        width: 100%;
-    }
-
-    #sourceModal .source-item {
-        min-width: 100px;
-    }
-
-    .price-page .price-blg {
-        padding-top: 50px;
-    }
-
-    .price-page .price-abImg-3 {
-        bottom: -100px;
-        top: auto;
-        width: 154px;
-    }
-
-    .price-page .title-service {
-        font-size: 38px;
-    }
-
-    .price-page .txt-service {
-        font-size: 18px;
-        margin-bottom: 45px;
-    }
-
-    .business-page .blue-section, .business-page .blue-section__bottom {
-        padding-top: 50px;
-    }
-
-    .business-page .logo-link img {
-        width: 150px;
-    }
-
-    .business-page .title {
-        font-size: 45px;
-    }
-
-    .business-page .blue-section__bottom .dashboard-img {
-        margin-top: 0;
-        transform: translateY(35px);
-    }
-    .business-home .social-list:last-of-type {
+    .web-pricing .web-bottom {
         display: none;
     }
-    .business-home .business-box__txt {
-        padding: 0;
-        font-size: 18px;
-    }
-
-    .price-business .price .price-box {
-        width: 100%;
-    }
-
-    .price-business .price-main {
-        padding: 50px 0;
-    }
-
-    .price-business .title-service {
-        font-size: 50px;
-        margin-bottom: 35px;
-    }
-
-    .price-business .page-list {
-        margin: 0 auto 60px;
-    }
-
-    .terms-page .terms-section .terms-item,
-    .privacy-page .privacy-section .privacy-item {
-        padding: 0 15px 20px;
-    }
-
-    .terms-page .header-bg,
-    .privacy-page .header-bg {
-        padding: 50px 0 ;
-    }
-
-    .terms-page .terms-section,
-    .privacy-page .privacy-section  {
-        padding: 30px 0 0;
-    }
-
-    .business-home .bottom-section .mw-880 {
-        padding-top: 50px;
-    }
-
-    .enterprise-page .bottom-section .img-search-group,
-    .enterprise-page .bottom-section .img-consumer{
+    .web-pricing .card-4 {
         display: none;
     }
-
-    .enterprise-page .top-section .title {
-        font-size: 46px;
+    .web-pricing .home-top {
+        padding: 90px 0 90px;
     }
-
-    .enterprise-page .bottom-section .title {
-        font-size: 45px;
-    }
-
-    .enterprise-page .bottom-section .text-ul .fs32 {
-        font-size: 23px;
-        line-height: 30px;
-    }
-
-    .enterprise-page .bottom-section .text-ul .fs23 {
-        font-size: 20px;
-        line-height: 25px;
-    }
-
-    .checkout-tab .price-number-box {
-        margin-bottom: 30px;
-    }
-
-    .nv-page header .text-title{
-        margin-bottom: 10px;
-    }
-
-    .nv-page .nv-sidebar {
-        display: none;
-        width: 100%;
-    }
-
-    .nv-page header,
-    .nv-page .nv-main,
-    .nv-page.sidebar-collapsed header,
-    .nv-page.sidebar-collapsed .nv-main{
-        margin-left: 0;
-    }
-
-    .btn-open.dn {
-        display: flex;
-        justify-content: flex-end;
-    }
-
-    .nv-page .collapse-link {
+    .web-pricing .try-demo {
         display: none;
     }
-
-    .nv-page header .text-title {
-        margin: 0 10px 0 0;
-    }
-
-    .col-custom-2 {
-        padding: 0 10px;
-    }
-
-    .settings-nv .price .price-box__list {
-        max-width: 196px;
-        margin: 30px auto;
-    }
-
-    .nv-price-page .section_head .section_head-info {
-        font-size: 18px;
-        line-height: 28px;
-    }
-
-    .nv-price-page .section_apps {
-        padding-bottom: 40px;
-    }
-
-    .nv-price-page .section_apps .section_apps-title, .nv-price-page .section_apps .free_block-title {
-        font-size: 40px;
-        line-height: 50px;
-    }
-    .nv-price-page .section_head .price_box .price_box-category {
-        font-size: 30px;
-    }
-
-    .nv-price-page .section_head .price_box .price_box-content li,
-    .nv-price-page .section_head .price_box .price_box-content li a {
-        font-size: 16px;
-        line-height: 30px;
-    }
-
-
-    #popupFileBackup .popup-dialog {
-        padding-left: 15px;
-        padding-right: 15px;
-    }
-
-    #popupFileBackup .popup .tb-boxes {
-        flex-wrap: wrap;
-    }
-
-    #popupFileBackup .popup {
-        padding: 15px;
-    }
-
-    .features-page .select-feature{
-        width: auto;
-    }
-
-    .features-page .section_apps{
-        padding: 372px 0 50px;
-    }
-
-    .nv-price-page .section_apps {
-        padding-top: 450px;
-    }
-
-
-    #onboardingModal .modal-row {
-        display: unset;
-    }
-
-    #onboardingModal .left-part-text {
-        padding: 10px 0 0 0;
-        margin-bottom: 20px;
-    }
-    .smd-videopage .introduc-item{
-        width: 48.9%;
-
-    }
-
-    .nv-page .login-page_left {
-        display: none;
-    }
-    .nv-page .login-page_right {
-        width: 100%;
-    }
-
-    .nv-page .login-page_right .login-box {
-        padding: 30px 25px;
-    }
-
-    .nv-page .login-page_right .login-box .logo-svg {
-        margin-bottom: 30px;
-    }
-    .features-page .section_head .section_head-title,
-    .slack-page .more-section_title,
-    .slack-page .slackapp-title,
-    .slack-page .instal-title,
-    .slack-page .combin-section_title {
-        font-size: 35px;
-    }
-    .slack-page .smd-box, .slack-page .slack-box {
-        transform: translateY(0);
-    }
-    .slack-page .bg-img {
-        background: none;
-    }
-    .slack-page .instal-section {
-        padding: 60px 0 0;
-    }
-    .slack-page .more-section {
-        padding-top: 150px;
-    }
-    .slack-page .combin-section .col-md-6 {
-        margin-top: 0;
-    }
-    .egnyte-page .round-txt,
-    .station-page .round-txt,
-    .slack-page .round-txt{
-        font-size: 16px;
-    }
-
-    .unsubscribe-page .section_apps-img {
-        padding: 50px 0 ;
-    }
-
-    .unsubscribe-page .like_box-img {
-        margin-bottom: 20px;
-    }
-
-    .unsubscribe-page .like_box-banner {
-        margin-bottom: 15px;
-    }
-
-    .unsubscribe-page .like_box-info {
-        margin: 0 auto 20px;
-    }
-
-    .unsubscribe-page .bg-gray_box {
-        margin: 25px auto 10px;
-    }
-
-    .unsubscribe-page .like_box {
-        min-height: 580px;
-    }
-
-    .unsubscribe-page .section_head {
-        padding: 0 0 30px;
-    }
-
-    .unsubscribe-page .section_apps {
-        padding: 70px 0 50px;
-    }
-
-    .nv-serp-main .teble-serp {
-        width: 800px;
-    }
-    .saasuma-work .air-sidebar {
-        left: 0;
-    }
-
-    .new-version-login .login-page_left-nv {
-        display: none;
-    }
-
-    .new-version-login .logo-sm {
-        display: inline-block;
-    }
-
-    .new-version-login .right-header {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-    }
-
 }
 
 @media only screen and ( max-width: 640px ) {
@@ -1070,8 +692,23 @@
     .right-modal .txt-save-2 {
         margin-right: 300px;
     }
-
 }
+
+    @media only screen and ( max-width: 600px ) {
+        .web-pricing .live-meeting,
+        .web-pricing .bottom-elipse {
+            display: none;
+        }
+        .web-pricing .home-top_info {
+            margin-bottom: 50px;
+        }
+        .web-pricing .home-top {
+            padding: 90px 0 35px;
+        }
+        .web-pricing .home-top_title {
+            font-size: 55px;
+        }
+    }
 
 @media only screen and (max-width: 580px) {
     .nav_item .nav_item_circle{
